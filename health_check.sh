@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "---MASTER REPORT ---"
+echo "---BRANCH REPORT ---"
 date
 echo ""
 echo "1. DISK SPACE USAGE."
