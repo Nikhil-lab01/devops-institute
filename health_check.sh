@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "---SERVER HEALTH REPORT ---"
+echo "---MASTER REPORT ---"
 date
 echo ""
 echo "1. DISK SPACE USAGE."
