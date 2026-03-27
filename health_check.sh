@@ -11,5 +11,6 @@ echo""
 echo "3 TOP MEAMORY PROCESS"
 ps aux --sort=-%mem | head -n 3
 echo ""
-echo "Report Complete"
 echo "Checking DNS..." && cat /etc/resolv.conf
+echo "Report Complete"
+echo "Bye"
